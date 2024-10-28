@@ -1,0 +1,88 @@
+class RawData{
+  static var arrContent = [
+  {
+  "image": "assets/images/whatsapp1.png",
+  "name": "Arun",
+  "lstmsg": "Hi vivek",
+  "time": "05:44 am",
+  "msg": "7",
+  },
+  {
+  "image": "assets/images/happy-face 1.png",
+  "name": "Arun1",
+  "lstmsg": "Hi vivehbmsabdk",
+  "time": "05:44 am",
+  "msg": "3",
+  },
+  {
+  "image": "assets/images/boarding.png",
+  "name": "Arun",
+  "lstmsg": "Hi vgsfdgivek",
+  "time": "05:24 am",
+  "msg": "1",
+  },
+  {
+  "image": "assets/images/whatsapp1.png",
+  "name": "Arun",
+  "lstmsg": "Hi vivek",
+  "time": "05:44 am",
+  "msg": "7",
+  },
+  {
+  "image": "assets/images/happy-face 1.png",
+  "name": "Arun1",
+  "lstmsg": "Hi vivehbmsabdk",
+  "time": "05:44 am",
+  "msg": "3",
+  },
+  {
+  "image": "assets/images/boarding.png",
+  "name": "Arun",
+  "lstmsg": "Hi vgsfdgivek",
+  "time": "05:24 am",
+  "msg": "1",
+  },
+  {
+  "image": "assets/images/whatsapp1.png",
+  "name": "Arun",
+  "lstmsg": "Hi vivek",
+  "time": "05:44 am",
+  "msg": "7",
+  },
+  {
+  "image": "assets/images/happy-face 1.png",
+  "name": "Arun1",
+  "lstmsg": "Hi vivehbmsabdk",
+  "time": "05:44 am",
+  "msg": "3",
+  },
+  {
+  "image": "assets/images/boarding.png",
+  "name": "Arun",
+  "lstmsg": "Hi vgsfdgivek",
+  "time": "05:24 am",
+  "msg": "1",
+  },
+  {
+  "image": "assets/images/whatsapp1.png",
+  "name": "Arun",
+  "lstmsg": "Hi vivek",
+  "time": "05:44 am",
+  "msg": "7",
+  },
+  {
+  "image": "assets/images/happy-face 1.png",
+  "name": "Arun1",
+  "lstmsg": "Hi vivehbmsabdk",
+  "time": "05:44 am",
+  "msg": "3",
+  },
+  {
+  "image": "assets/images/boarding.png",
+  "name": "Arun",
+  "lstmsg": "Hi vgsfdgivek",
+  "time": "05:24 am",
+  "msg": "1",
+  },
+  ];
+}
